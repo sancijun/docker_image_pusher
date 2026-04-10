@@ -1,2 +1,2 @@
-# 三此君个人站点镜像
+# 三此君个人站点镜像, linux
 sancijun/sancijun-site-cn
